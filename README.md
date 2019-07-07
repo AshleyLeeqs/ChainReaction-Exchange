@@ -2,7 +2,7 @@
 原型查看地址：https://ashleyleeqs.github.io/ChainReaction-Exchange/
 
 
-比特币白皮书中文版
+# 比特币白皮书中文版
 2008 年 10 月 31 日，中本聪发布了《比特币白皮书》。
 
 网上有若干个版本的《比特币白皮书》中文翻译版本：
